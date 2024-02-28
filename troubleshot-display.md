@@ -1,6 +1,9 @@
+## The Problem
 Last weekend I had planned to have a gaming session of Baldur's Gate 3. However my hopes were qualmed when I noticed something peculiar. My journey to the Forgotten Realms would be delayed.
 ![Baldur's Gate 3 Wallpaper](./D_1280├ù720 pix_01.jpg)
 
+
+## Troubleshooting
 My [ASUS ROG Strix G15](https://rog.asus.com/us/laptops/rog-strix/2021-rog-strix-g15-advantage-edition-series/helpdesk_knowledge/) internal display was completely black. Output to my external display was working however. I could have tabled the issue there and then, but I couldn't resist the temptation to troubleshoot and poke the bear. My search led me to this ASUS support [article](https://www.asus.com/support/faq/1014276/#B2_1), which reccomended software driver updates. No dice. 
 
 I then thought it might be a useful troubleshooting step to use [AMD cleanup utility](https://www.amd.com/en/support/kb/faq/gpu-601) to do additional driver installation cleanup. The utility requires boot into [Windows Safe Mode](https://support.microsoft.com/en-us/windows/advanced-startup-options-including-safe-mode-b90e7808-80b5-a291-d4b8-1a1af602b617#ID0EDD). I restarted the computer in safe mode, but would soon realize my mistake. I no longer had output to an external display likely because safe mode "starts Windows with a minimal set of drivers and services" was my working hypothesis. My stomach lurched. Now I had lost capability. I did attempt briefly to get the machine to get out of safe mode by using various key sequences but no luck. The machine was likely booting to some kind of startup repair after the multiple interrupted boots and power cycles.
