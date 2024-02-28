@@ -1,5 +1,5 @@
 Last weekend I had planned to have a gaming session of Baldur's Gate 3. However my hopes were qualmed when I noticed something peculiar. My journey to the Forgotten Realms would be delayed.
-![[D_1280├ù720 pix_01.jpg]]
+![Baldur's Gate 3 Wallpaper](./D_1280├ù720 pix_01.jpg)
 
 My [ASUS ROG Strix G15](https://rog.asus.com/us/laptops/rog-strix/2021-rog-strix-g15-advantage-edition-series/helpdesk_knowledge/) internal display was completely black. Output to my external display was working however. I could have tabled the issue there and then, but I couldn't resist the temptation to troubleshoot and poke the bear. My search led me to this ASUS support [article](https://www.asus.com/support/faq/1014276/#B2_1), which reccomended software driver updates. No dice. 
 
